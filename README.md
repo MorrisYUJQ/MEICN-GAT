@@ -76,7 +76,7 @@ MEICN-GAT_for_GitHub/
 
 ## 如何引用 (Citation)
 
-我们的论文目前正在投稿中。一旦被接收，我们将在此处提供详细的引用信息。
+请引用正式发表版本：Jiaqian Yu, Chen Zhang, and Yuanfeng Song (2027). Tackling data imbalance in high-end business markets: A multi-expert capsule network approach. *Information Sciences*, 758, 124026. [DOI: 10.1016/j.ins.2026.124026](https://doi.org/10.1016/j.ins.2026.124026)
 
 ---
 <br>
@@ -154,4 +154,4 @@ MEICN-GAT_for_GitHub/
 
 ## Citation
 
-Our paper is currently under review. Upon acceptance, we will provide detailed citation information here.
+Please cite the published version: Jiaqian Yu, Chen Zhang, and Yuanfeng Song (2027). Tackling data imbalance in high-end business markets: A multi-expert capsule network approach. *Information Sciences*, 758, 124026. [DOI: 10.1016/j.ins.2026.124026](https://doi.org/10.1016/j.ins.2026.124026)
